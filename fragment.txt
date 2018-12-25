@@ -1,1 +1,3 @@
-This is a text fragment, edited
+This is a text fragment, edited again and again.
+Warning: do not change this file unless you want to.
+
