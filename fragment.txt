@@ -1,1 +1,2 @@
 This is a text fragment, edited
+Warning: do not change this file unless you want to.
